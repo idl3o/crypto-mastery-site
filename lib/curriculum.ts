@@ -38,7 +38,7 @@ export const curriculum: Section[] = [
     ]
   },
   {
-    id: '02-economics',
+    id: '02-economics-of-money',
     title: 'Economics of Money',
     description: 'Understanding monetary theory',
     phase: 1,
@@ -49,7 +49,7 @@ export const curriculum: Section[] = [
     ]
   },
   {
-    id: '03-blockchain',
+    id: '03-blockchain-fundamentals',
     title: 'Blockchain Fundamentals',
     description: 'The technical foundation',
     phase: 2,
@@ -73,7 +73,7 @@ export const curriculum: Section[] = [
     ]
   },
   {
-    id: '05-ethereum',
+    id: '05-ethereum-smart-contracts',
     title: 'Ethereum & Smart Contracts',
     description: 'The programmable blockchain',
     phase: 2,
@@ -97,7 +97,7 @@ export const curriculum: Section[] = [
     ]
   },
   {
-    id: '07-trading',
+    id: '07-trading-markets',
     title: 'Trading & Markets',
     description: 'Understanding crypto markets',
     phase: 3,
@@ -108,7 +108,7 @@ export const curriculum: Section[] = [
     ]
   },
   {
-    id: '08-advanced',
+    id: '08-advanced-protocols',
     title: 'Advanced Protocols',
     description: 'Cutting-edge technology',
     phase: 4,
@@ -139,7 +139,7 @@ export const curriculum: Section[] = [
     ]
   },
   {
-    id: '11-frontier',
+    id: '11-research-frontier',
     title: 'Research Frontier',
     description: 'Where the field is heading',
     phase: 5,
